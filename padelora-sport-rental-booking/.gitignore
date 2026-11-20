@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local MCP booking data
+mcp-server/data/booking_requests.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
